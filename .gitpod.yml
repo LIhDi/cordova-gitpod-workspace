@@ -10,6 +10,6 @@ tasks:
       echo "Instalando SDK"
       mkdir -p /workspace/android-sdk && cd /workspace/android-sdk && wget https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip && unzip sdk-tools-linux-4333796.zip && rm -f sdk-tools-linux-4333796.zip
       /workspace/android-sdk/tools/bin/sdkmanager "platform-tools" "platforms;android-28" "build-tools;28.0.3"
-      cd /worspace/android-sdk/tools/bin/sdkmanager --licenses
+      cd /workspace/android-sdk/tools/bin/sdkmanager --licenses
 image:
   file: .gitpod.Dockerfile
