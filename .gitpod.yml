@@ -1,6 +1,7 @@
 tasks:
   - before: |
-      export PATH=$ANDROID_HOME/bin:$ANDROID_HOME/platform-tools:$PATH
+      export JAVA_HOME="/usr/lib/jvm/java-1.8.0-openjdk-amd64"
+      export PATH=$JAVA_HOME/bin:$ANDROID_HOME/bin:$ANDROID_HOME/platform-tools:$PATH
       mkdir -p /home/gitpod/.android
       touch /home/gitpod/.android/repositories.cfg
     init: |
