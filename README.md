@@ -27,12 +27,20 @@ Este projeto surgiu da necessidade dos alunos da turma de **Desenvolvimento de A
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/d828ca64-10aa-4346-b8cb-998fd6fe480b)
 
+- Fazer o login e autorizar o Gitpod no Github.
+- Assim que abrir o container aceitar todas as permissões [y] ou [A]
+- Entrar no contexto do ambiente
+
+```sh
+cd /workspace/cordova-gitpod-workspace
+```
 
 ### Novo Projeto
 
 ```sh
 cordova create new-app
 cd new-app/
+cordova platform add android
 cordova run android
 ```
 ### Desenvolvimento
