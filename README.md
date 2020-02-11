@@ -25,7 +25,7 @@ Este projeto surgiu da necessidade dos alunos da turma de **Desenvolvimento de A
 
 ### Instalação
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/d828ca64-10aa-4346-b8cb-998fd6fe480b)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/fc94aead-d9bb-41f5-98fc-a2fc58c3c9a0)
 
 - Fazer o login e autorizar o Gitpod no Github.
 - Assim que abrir o container aceitar todas as permissões [y] ou [A]
