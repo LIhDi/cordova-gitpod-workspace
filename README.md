@@ -25,7 +25,7 @@ Este projeto surgiu da necessidade dos alunos da turma de **Desenvolvimento de A
 
 ### Instalação
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/e8816202-c2b7-4940-80ee-71398f5e268b)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/92522914-a004-4212-900f-896e2aec1577)
 
 
 - Fazer o login e autorizar o Gitpod no Github.
