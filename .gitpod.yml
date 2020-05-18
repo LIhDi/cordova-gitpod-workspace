@@ -7,8 +7,7 @@ tasks:
       mkdir -p /home/gitpod/.android
       touch /home/gitpod/.android/repositories.cfg
     init: |
-      echo "Instalando Cordova"
-      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+      echo "Instalando Node"
       nvm install 10.15.1
       nvm use 10.15.1
       echo "Instalando SDK"
